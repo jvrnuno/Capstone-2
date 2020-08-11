@@ -1,0 +1,2 @@
+Better Buildings Neighborhood Program Single-family home upgrade project dataset
+Building project data for 75,110 single-family homes upgraded between July 1, 2010, and September 30, 2013 from the Better Building Neighborhood Program. This dataset includes a documentation file and three data tables. Reported data for some elements have been transformed and data for some upgraded homes have been omitted to protect privacy.
