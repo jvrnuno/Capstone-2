@@ -1,2 +1,2 @@
-# Residential Unit Utility consupmtion Cost Prediction Tool
+# Prediction tool for utility consumption cost in residential units  
 
