@@ -10,12 +10,12 @@ Also, understanding the factors that determine the energy bill before-hand could
 
 The present project aims to provide homebuyers, homeowners, and retail rental property investors a powerful tool to estimate the yearly energy bill, just by providing a few parameters shown in a typical listing services website, such as RedFin, Realtor.com, or Zillow.
 
-The steps followed in this projects are:
-1.Data collection and inspection. [Notebook here](link)
-2.Data cleaning and variable optimization.
-3.Exploratory data analysis (EDA).
-4.Pre-processing.
-5.Modeling and results.
+The steps followed in this project are:
+1. Data collection and inspection. [Notebook here](https://github.com/jvrnuno/Capstone-2/blob/master/notebooks/1A_JNT_collection_and_inspection.ipynb)
+2. Data cleaning and variable optimization. [Notebook here](https://github.com/jvrnuno/Capstone-2/blob/master/notebooks/1B_JNT_cleaning_and_optimization.ipynb)
+3. Exploratory data analysis (EDA). [Notebook here](https://github.com/jvrnuno/Capstone-2/blob/master/notebooks/2_JNT_exploratory_data_analysis.ipynb)
+4. Pre-processing. [Notebook here](https://github.com/jvrnuno/Capstone-2/blob/master/notebooks/3_JNT_Pre-processing.ipynb)
+5. Modeling and results. [Notebook here](https://github.com/jvrnuno/Capstone-2/blob/master/notebooks/4_JNT_Modelling.ipynb)
 
 ---
 (1) The U.S. Energy Information Administration (EIA) - https://www.eia.gov/energyexplained/us-energy-facts/
