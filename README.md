@@ -1,3 +1,5 @@
+![cover](figures/cover_img.jpg)
+
 # Predicting Energy Consumption Cost In Residential Units 
 
 > *What is the estimated cost of energy in a residential unit, given the attributes available on any listing services website?*
